@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DragonSlayer668YT
-- 👀 I’m interested in computers such as building them and troubleshooting. I'm also interested in webdevelopement.
+- 👀 I’m interested in computers such as building them and troubleshooting. I'm also interested in web developement.
 - 🌱 I’m currently learning python, html, css, and JavaScript
 - 📫 How to reach me: dragonbusiness668@gmail.com 
 
